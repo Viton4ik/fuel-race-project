@@ -19,4 +19,4 @@ Steps:
 * `render.py`: `TOP_N`, `PINNED`, `T_RACE` (race length), `EVENTS` (captions), colours `C_GAS`/`C_DSL`.
 * Font path is set in `FD` (Inter). Flags: `assets/flags/` rendered from flag-icons (MIT licence).
 
-Data sources and method: `data/SOURCES.md`. YouTube text: `YOUTUBE_DESCRIPTION.md`.
+Data sources and method: `data/SOURCES.md`. 
